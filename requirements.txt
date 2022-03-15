@@ -1,0 +1,8 @@
+openpyxl
+pandas
+matplotlib
+numpy
+gensim
+sklearn
+scipy
+nltk
